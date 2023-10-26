@@ -1,6 +1,6 @@
 Algoritmo Proyecto_103
 	Definir a,b,c,x1,x2,raim,rain,rare,mx1 como numerico
-	Escribir "Este algorítmo está elaborado para calcular las raíces usando la fórmula general cuadrática"
+	Escribir "Este algorÃ­tmo estÃ¡ elaborado con la finalidad de calcular las raÃ­ces usando la fÃ³rmula general cuadrÃ¡tica"
 	raim=0
 	rain=0
 	rare=0
@@ -28,8 +28,8 @@ Algoritmo Proyecto_103
 			FinPara
 		FinPara
 	FinPara
-	Escribir "El número total de raíces imaginarias es= ",raim
-	Escribir "El número total de raíces indeterminadas es= ",rain
-	Escribir "El número de raíces reales es= ", rare
-	Escribir "El mínimo valor de las raíces x1= ",mx1
+	Escribir "El nÃºmero total de raÃ­ces imaginarias es= ",raim
+	Escribir "El nÃºmero total de raÃ­ces indeterminadas es= ",rain
+	Escribir "El nÃºmero de raÃ­ces reales es= ", rare
+	Escribir "El mÃ­nimo valor de las raÃ­ces x1= ",mx1
 FinAlgoritmo

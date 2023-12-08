@@ -16,3 +16,13 @@ char nombre[30];
 char grupo[35];
 int eti[];
 }hero;
+
+int main(argc(), char*argv[])
+{
+printf(" Color 10");
+
+void menú();
+void(impresion);
+
+return 0;
+}

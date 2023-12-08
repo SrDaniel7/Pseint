@@ -4,4 +4,14 @@
 struct conflicto
 {
 char name[30];
-char 
+char paiss[200];
+int con[];
+char continentes[60];
+}conflicto;
+
+struct heroe
+{
+char nombre[30];
+char grupo[35];
+int eti[];
+}hero;

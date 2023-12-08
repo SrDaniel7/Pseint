@@ -7,6 +7,7 @@ char name[30];
 char paiss[200];
 int con[];
 char continentes[60];
+int bajas[];
 }conflicto;
 
 struct heroe

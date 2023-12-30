@@ -23,6 +23,9 @@ printf(" Color 10");
 
 void menufun();
 puts("Introduzca la opción que desea realizar el día de hoy");
+puts("¿En qué se quiere centrar?");
+puts("A) Héroes/t B) Agentes/t C) Reuniones/t D) Misiones/t");
+
 
 void(impresion);
 

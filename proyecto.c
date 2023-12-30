@@ -21,7 +21,9 @@ int main(argc(), char*argv[])
 {
 printf(" Color 10");
 
-void menú();
+void menufun();
+puts("Introduzca la opción que desea realizar el día de hoy");
+
 void(impresion);
 
 return 0;

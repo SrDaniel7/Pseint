@@ -8,7 +8,7 @@ char paiss[200];
 int con[];
 char continentes[60];
 int bajas[];
-}conflicto;
+}conflict;
 
 struct heroe
 {
@@ -25,7 +25,13 @@ void menufun();
 puts("Introduzca la opción que desea realizar el día de hoy");
 puts("¿En qué se quiere centrar?");
 puts("A) Héroes/t B) Agentes/t C) Reuniones/t D) Misiones/t");
-
+scanf("%s", &op);
+switch(op)
+ case A:
+   
+ case B:
+ case C:
+ case D: 
 
 void(impresion);
 
